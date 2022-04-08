@@ -1,0 +1,54 @@
+body {
+    background: url(../img/gradin.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fcfcfc;
+    font-weight: bold;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    color: rgb(0, 113, 220);
+}
+
+h1 {
+    background-color: rgba(0, 0, 0, 0.679);
+    color: rgb(0, 113, 220);
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0);
+    color: rgb(0, 113, 220);
+    margin-top: 2%;
+}
+
+#block {
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+#block2 {
+    background-image: url(../img/cards3.jpg);
+    background-color: rgba(0, 0, 0, 0.775);
+    background-size: cover;
+    margin-top: 5%;
+    margin-left: 31%;
+    margin-right: 31%;
+}
+
+a {
+    display: flex;
+    justify-content: flex-start;
+    color: rgb(0, 113, 220);
+}
+
+.span6 {
+
+    background-position-x: 10%;
+
+}
